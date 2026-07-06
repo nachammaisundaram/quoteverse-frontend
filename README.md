@@ -1,5 +1,6 @@
 # QuoteVerse Frontend
 
+🔗 Live App: https://<your-vercel-url>.vercel.app
 React (Vite) app that displays random quotes fetched from the QuoteVerse backend API.
 
 ## Folder Structure
